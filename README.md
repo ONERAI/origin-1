@@ -1,5 +1,5 @@
 # Origin-1
-This repository contains data generated as part of the study [Origin-1: a generative AI platform for _de novo_ antibody design](https://www.absci.com/). _In silico_ and _in vitro_ data are included in this repository. Additional binding, developability, functionality, and structure confirmation results can be found in the paper.
+This repository contains data generated as part of the study [Origin-1: a generative AI platform for _de novo_ antibody design against novel epitopes](https://www.absci.com/wp-content/uploads/2026/01/260114_Origin1_Final_Submission.pdf). _In silico_ and _in vitro_ data are included in this repository. Additional binding, developability, functionality, and structure confirmation results can be found in the paper.
 
 -----------------------------------------------------------------------------------------------------
 Data in `de_novo_spr_data.csv` are organized with the following columns:
