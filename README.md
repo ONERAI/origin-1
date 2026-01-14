@@ -15,7 +15,7 @@ Data in `lead_optimization_spr_data.csv` are organized with the following column
 * `Heavy Chain`: Heavy chain variable domain sequence
 * `Light Chain`: Light chain variable domain sequence
 * `Target`: Target antigen. We use AZGP1-A and AZGP1-B to both indicate screening against AZGP1 but that different parents were used for optimization.
-* `Mutation`: Mutation made from parent sequence (e.g. H-S31A is an S to A mutation at 1-indexed position 31 of the heavy chain)
+* `Mutation`: Mutation made from parent sequence (e.g. H-S31A is an S to A mutation at 1-indexed position 31 of the heavy chain). NaN indicates the parent sequence.
 * `Binder`: Boolean indicating whether or not the design is a binder. Note that a NaN may be present which indicates the respective antibody could not be measured for binding.
 * `KD (nM)`: Dissociation constant in nM units
 * `pKD`: Negative logarithm of dissociation constant
