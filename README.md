@@ -1,5 +1,5 @@
 # Origin-1
-Experimental data from the study Origin-1. Surface plasmon resonance (SPR) data are included in this repository. Additional data on binding, developability, functionality, and structure confirmation can be found in the paper.
+This repository contains data generated as part of the study [Origin-1: a generative AI platform for _de novo_ antibody design](https://www.absci.com/). _In silico_ and _in vitro_ data data are included in this repository. Additional binding, developability, functionality, and structure confirmation results can be found in the paper.
 
 -----------------------------------------------------------------------------------------------------
 Data in `de_novo_spr_data.csv` are organized with the following columns:
@@ -20,7 +20,7 @@ Data in `lead_optimization_spr_data.csv` are organized with the following column
 * `KD (nM)`: Dissociation constant in nM units
 * `pKD`: Negative logarithm of dissociation constant in M units
 -----------------------------------------------------------------------------------------------------
-The `abscibind` and `abscigen` folders contain all computational models generated for the reported designs by AbsciBind and AbsciGen, respectively.
+The `abscibind` and `abscigen` folders contain the computational models generated for the reported designs by AbsciBind and AbsciGen, respectively.
 
 # Citations
-If you find these data or results useful, we ask that you cite our work:
+If you find these data or results useful, we ask that you cite our work: TBA
