@@ -18,7 +18,7 @@ Data in `lead_optimization_spr_data.csv` are organized with the following column
 * `Mutation`: Mutation made from parent sequence (e.g. H-S31A is an S to A mutation at 1-indexed position 31 of the heavy chain)
 * `Binder`: Boolean indicating whether or not the design is a binder. Note that a NaN may be present which indicates the respective antibody could not be measured for binding.
 * `KD (nM)`: Dissociation constant in nM units
-* `pKD`: Negative logarithm of dissociation constant in M units
+* `pKD`: Negative logarithm of dissociation constant
 -----------------------------------------------------------------------------------------------------
 The `abscibind` and `abscigen` folders contain the computational models generated for the reported designs by AbsciBind and AbsciGen, respectively.
 
