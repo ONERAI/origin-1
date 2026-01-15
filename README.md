@@ -23,4 +23,14 @@ Data in `lead_optimization_spr_data.csv` are organized with the following column
 The `abscibind` and `abscigen` folders contain the computational models generated for the reported designs by AbsciBind and AbsciGen, respectively.
 
 # Citations
-If you find these data or results useful, we ask that you cite our work: TBA
+If you find these data or results useful, we ask that you cite our work:
+```
+@article{Levine2026Origin1,
+  title = {Origin-1: a generative AI platform for de novo antibody design against novel epitopes},
+  author = {Levine, Simon and King, Jonathan Edward and Stern, Jacob and Grayson, David and Wang, Raymond and Yin, Rui and Lupo, Umberto and Kulytė, Paulina and Brand, Ryan Matthew and Bertin, Tristan and Pfingsten, Robert and Cejovic, Jovan and Chung, Chelsea and Luton, Breanna K. and Hagemann, Andrew and Haile, Robel and Medina, Elliot and Panwar, Pankaj and Dubrovskyi, Oleksii and LaCombe, Chase and Anderson, Zahra and Mildh, Derrik and Benjamin, Scott and Kaiser, Joe and Ferron, Joseph and Sarrico, Marta and Kershner, Alexandria and Mishra, Apurva and Ejan, Kai R. and Marsh, Emily K. and Bringas, Paul and Vilaychack, Phetsamay and Chapman, Kyra and Ripley, Jacob and Gowda, Muttappa and Collins, Kathryn M. and McCloskey, Cailen M. and Joseph, Jeremiah S. and Ripley, Rylee and Abdulhaqq, Shaheed A. and Feltner, Audree and Guerin, Michael and Goby, Jeffrey and Hendricks, Jesse and Castillo, Danielle and McClain, Sean and Ganini, Douglas and Shpiel, Derek and Mategko, James and Garcia, Eder Cruz and Zabet-Moghaddam, Masoud and Sutton, John M. and Guo, Zheyuan and West, Sean M. and Iyer, Janani S. and Shanehsazzadeh, Amir},
+  year = {2026},
+  journal = {bioRxiv},
+  doi = {10.64898/2026.01.14.699389},
+  url = {https://www.biorxiv.org/content/10.64898/2026.01.14.699389v1}
+}
+```
